@@ -11,10 +11,10 @@ function big()
     function sub2()
     {
         var y=x;
-        System.out.print(y);
+        System.out.print(y+"\n");
     }
     var x=3;
-    System.out.print(x);
+    System.out.print(x+"\n");
     sub1();
 }
 
