@@ -5,10 +5,10 @@ class Test
 {
     public static void main (String[] args) 
     {
-        int x=100;
+        int i=100;
+	    System.out.println("Global: "+i);
 		for(int i=0;i<10;i++)
-		{
-		    int x=i;
-		}
+		    System.out.println("Local: "+i);
+		System.out.println("Global: "+i);
     }
 }

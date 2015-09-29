@@ -4,12 +4,10 @@ public class Test
 {
 	public static void Main()
 	{
-		int x=100;
+		int i=100;
+	    Debug.log("Global: "+i);
 		for(int i=0;i<10;i++)
-		{
-		    Console.WriteLine("Global: "+x);
-		    int x=i;
-		    Console.WriteLine("Local: "+x);
-		}
+		    Debug.log("Local: "+i);
+		Debug.log("Global: "+i);
 	}
 }

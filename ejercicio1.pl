@@ -18,3 +18,5 @@ print "---------------\n";
         print $f->(), "\n";  # imprime 3, tomando $x del dynamic scope
    }
 }
+
+# En perl se puede definir explicitamente el ambito estatico y dinamico con my y local
