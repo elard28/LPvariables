@@ -19,4 +19,4 @@ print "---------------\n";
    }
 }
 
-# En perl se puede definir explicitamente el ambito estatico y dinamico con my y local
+# En perl se puede definir explicitamente el ambito estatico y dinamico con my como variable global y local como variable local

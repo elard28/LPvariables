@@ -31,4 +31,4 @@ function big()
 
 big()
 
-// toma el valor de la variable globar definida en big, en sub2 cuando se redefine la variable x el valor de y se vuelve desconocido
+// toma el valor de la variable global definida en big, en sub2 cuando se redefine la variable x el valor de y se vuelve desconocido

@@ -13,4 +13,4 @@ int main()
 	return 0;
 }
 
-//la variable creada dentro del for no se admite como ambito dinamico en java y csharp
+//la variable creada dentro del for no se admite en java y csharp debido a que onsideran que la variable ya existe

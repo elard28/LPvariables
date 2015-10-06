@@ -23,4 +23,4 @@ int main()
     return 0;
 }
 
-//En c y c++ admite el dinamic scope mientras que en java no lo permite
+//En c y c++ admite el ststic scope mientras que en java no lo permite al compilarlo
