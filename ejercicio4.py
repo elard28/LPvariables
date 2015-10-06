@@ -19,4 +19,4 @@ def big():
     
 big()
 
-#lo mismo pasa con python solo que no admite al redefinir la variable x en sub2
+#lo mismo pasa con python solo que no admite al redefinir la variable x en sub2 por lo que no admite ambito estatico
